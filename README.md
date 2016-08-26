@@ -1,2 +1,4 @@
-# passwd_gen
+# Passwd_gen
 My private rails project
+
+*#* Git setup *#*
